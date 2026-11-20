@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Python OOP Assignment 1",
+        "course": "CSE 201 - Object Oriented Programming",
+        "task_type": "Assignment",
+        "deadline": "2026-11-27",
+        "description": "Create a Library class using encapsulation and inheritance.",
+        "completed_by": [
+            "student",
+            "student2",
+            "student3"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Data Structures Quiz",
+        "course": "CSE 203 - Data Structures",
+        "task_type": "Quiz",
+        "deadline": "2026-11-30",
+        "description": "Quiz on stacks, queues and linked lists.",
+        "completed_by": [
+            "student",
+            "student2"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Database Lab Report",
+        "course": "CSE 207 - Database Systems",
+        "task_type": "Lab Report",
+        "deadline": "2026-12-03",
+        "description": "Submit the SQL lab report for experiments 1 to 4.",
+        "completed_by": [
+            "student",
+            "student3"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Web Project Presentation",
+        "course": "CSE 301 - Web Development",
+        "task_type": "Presentation",
+        "deadline": "2026-12-10",
+        "description": "Present your final Flask project in class.",
+        "completed_by": [
+            "student3",
+            "student"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "sklksl",
+        "course": "sdkljss",
+        "task_type": "Project",
+        "deadline": "2026-11-23",
+        "description": "zxc",
+        "completed_by": [
+            "student2",
+            "student"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "dsklssl;ms;d",
+        "course": "sdl;;s",
+        "task_type": "Exam",
+        "deadline": "2026-11-30",
+        "description": "hjh",
+        "completed_by": [
+            "student4"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "hukyhio",
+        "course": "yyutty",
+        "task_type": "Lab Report",
+        "deadline": "2026-12-5",
+        "description": "ugu",
+        "completed_by": []
+    },
+    {
+        "id": 8,
+        "title": "djlsdk",
+        "course": "siopsdps",
+        "task_type": "Presentation",
+        "deadline": "2026-12-30",
+        "description": "siuos",
+        "completed_by": []
+    }
+]
